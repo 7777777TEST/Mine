@@ -1,0 +1,16 @@
+{
+	"version": "1.0",
+	"short_name":"Mine",
+	"name":"Mine sweeper",
+	"display":"standalone",
+	"start_url":"index.html",
+	"theme_color":"#0095DD",
+	"background_color": "#0095DD",
+	"icons":[
+		{
+			"src": "images/app.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	]
+}
